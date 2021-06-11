@@ -47,4 +47,4 @@ app.get('*', function (req, res) {
 });
 */
 // start server
-app.listen(port, host, () => console.log(`App listening at http://${host}:${port}/`));
+//app.listen(port, host, () => console.log(`App listening at http://${host}:${port}/`));
